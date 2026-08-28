@@ -1,2 +1,2 @@
 print("Este é o script 2 do projeto")
-print("Este é a alteração do John")
+print("Este é a alteração")
